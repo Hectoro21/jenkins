@@ -19,10 +19,10 @@
         <version>6.8</version>
         <scope>test</scope>
    </dependency>
-   <dependency>
+<dependency>
   <groupId>org.apache.maven</groupId>
   <artifactId>maven</artifactId>
-  <version>3.5.2</version>
+  <version>3.5.4</version>
   <type>pom</type>
 </dependency>
 
